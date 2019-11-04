@@ -1,4 +1,4 @@
-Issue: Nashorn15x Slower WithOpenJ9 Java11_vs OpenJ9 Java8
+Issue: Nashorn15x Slower With openj9-0.17.0 Java11_vs openj9-0.17.0 Java8
 
 Instructions:
 1. Compile JavascriptTest.java with any JDK8 compiler
